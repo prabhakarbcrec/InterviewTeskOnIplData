@@ -1,0 +1,40 @@
+# InterviewTeskOnIplData
+This is a java code for analysis of Ipl data given by  one company as a task to submit it 
+
+
+THERE WILL BE TO DATA SET THAT FORMAT WILL BE CSV
+LIKE: -
+
+DATA SET 1. 
+MATCH_ID
+INNING SEASON
+BATTING_TEAM CITY
+BOWLING_TEAM DATE
+OVER TEAM1
+BALL TEAM2
+BATSMAN TOSS_WINNER
+BOWLER TOSS_DECISION
+WIDE_RUNS RESULT
+BYE_RUNS WINNER
+LEGBYE_RUNS
+NOBALL_RUNS
+PENALTY_RUNS
+BATSMAN_RUNS
+EXTRA_RUNS
+TOTAL_RUNS
+
+DATA SET 2.
+SEASON
+CITY
+DATE
+TEAM2
+TOSS_WINNER
+TOSS_DECISION
+RESULT
+WINNER
+
+Solve the below questions in Only in Java.
+1. Top 4 teams which elected to field first after winning toss in the year 2016 and
+2017.
+Output Expected:
+YEAR TEAM COUNT
